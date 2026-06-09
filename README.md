@@ -371,7 +371,7 @@ Invoke-RestMethod "http://127.0.0.1:8000/copilot/report" -Method POST -ContentTy
 
 ## 📎 Links and notes
 
-- **GitHub repository:** insert repository link.
+- **GitHub repository:** [repository link](https://github.com/jonsilva91/Global-Solutions-2026).
 - **video:** [Demo Video](https://youtu.be/znjxI3e4TjI).
 - **PDF:** `docs/pdf/entrega-global-solution.pdf`.
 
