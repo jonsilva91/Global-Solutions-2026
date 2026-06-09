@@ -1,0 +1,13 @@
+[
+  {
+    "alert_id": "alert_20260609_185221",
+    "alert_type": "fire",
+    "severity": "CRITICAL",
+    "area": "Pantanal",
+    "message": "Fire risk alert: CRITICAL risk detected in Pantanal",
+    "risk_score": 87.0,
+    "timestamp": "2026-06-09T18:52:21.057514Z",
+    "status": "active",
+    "device_id": null
+  }
+]

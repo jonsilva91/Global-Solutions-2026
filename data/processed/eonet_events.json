@@ -1,0 +1,142 @@
+[
+  {
+    "event_id": "EONET_20382",
+    "title": "Tropical Storm Boris",
+    "category": "Severe Storms",
+    "status": "open",
+    "source": "JTWC",
+    "geometry_type": "Point",
+    "coordinates": [
+      -98.6,
+      16.7
+    ],
+    "event_date": "2026-06-09T12:00:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20387",
+    "title": "Tower Wildfire, Millard, Utah",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -112.164042,
+      39.205895
+    ],
+    "event_date": "2026-06-07T15:24:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20388",
+    "title": "Raven Creek Wildfire, Weston, Wyoming",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -105.04695,
+      44.084633
+    ],
+    "event_date": "2026-06-06T20:44:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20389",
+    "title": "CHESTNUT Wildfire, Chelan, Washington",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -120.018153,
+      47.793631
+    ],
+    "event_date": "2026-06-06T14:14:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20385",
+    "title": "WALTZ Wildfire, Mariposa, California",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -120.245512,
+      37.378149
+    ],
+    "event_date": "2026-06-05T15:51:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20386",
+    "title": "Kopshesut Wildfire, Northwest Arctic, Alaska",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -157.928717,
+      67.092467
+    ],
+    "event_date": "2026-06-04T18:04:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20391",
+    "title": "MOXEE ORCHARD Wildfire, Yakima, Washington",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -120.077137,
+      46.52368
+    ],
+    "event_date": "2026-06-04T17:25:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20299",
+    "title": "Tropical Storm Amanda",
+    "category": "Severe Storms",
+    "status": "open",
+    "source": "JTWC",
+    "geometry_type": "Point",
+    "coordinates": [
+      -136,
+      11.3
+    ],
+    "event_date": "2026-06-08T00:00:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20287",
+    "title": "HAYSTACK BUTTE Wildfire, Klickitat, Washington",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -120.930004,
+      45.665397
+    ],
+    "event_date": "2026-05-30T20:21:00Z",
+    "api_source": "NASA EONET v3"
+  },
+  {
+    "event_id": "EONET_20286",
+    "title": "BRANTLEY 2 Wildfire, Eddy, New Mexico",
+    "category": "Wildfires",
+    "status": "open",
+    "source": "IRWIN",
+    "geometry_type": "Point",
+    "coordinates": [
+      -104.3555,
+      32.611733
+    ],
+    "event_date": "2026-05-30T12:20:00Z",
+    "api_source": "NASA EONET v3"
+  }
+]
